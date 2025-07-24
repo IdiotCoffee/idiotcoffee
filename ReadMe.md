@@ -1,5 +1,5 @@
 # Who I Am (and What I Break)
-Hi, I’m Ishaan. I’m deeply curious about how things work—and even more driven to improve them. I want to work with Django, Python, and AWS to build backend systems that don’t just run, but actually solve real problems at scale. With a background in Computer Engineering, I’m now exploring cloud infrastructure, automation, and applied AI. If it’s technical, challenging, and grounded in the real world—I’m in.
+Hi, I’m Ishaan. I’m deeply curious about how things work - and even more driven to improve them. I want to work with Django, Python, and AWS to build backend systems that don’t just run, but actually solve real problems at scale. With a background in Computer Engineering, I’m now exploring cloud infrastructure, automation, and applied AI. If it’s technical, challenging, and grounded in the real world - I’m in.
 
 
 ## 🌐 Find Me Online:
