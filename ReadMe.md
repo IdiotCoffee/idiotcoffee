@@ -12,9 +12,8 @@ Outside of day-to-day product work, I spend a lot of time studying system design
 
 ## Currently Building
 
-- Dhrishti — Runtime architecture inference using eBPF and Go
-- KernelMind — Graph-aware repository intelligence
-- Technical writing on Dev.to and LinkedIn
+- Dhrishti: Runtime architecture inference using eBPF and Go
+- KernelMind: Graph-aware repository intelligence
 
 ## 🛠️ Languages & Tools
 <p align="center">
