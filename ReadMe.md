@@ -12,8 +12,12 @@ Outside of day-to-day product work, I spend a lot of time studying system design
 
 ## Currently Building
 
-- Dhrishti: Runtime architecture inference using eBPF and Go
-- KernelMind: Graph-aware repository intelligence
+- Dhrishti: Runtime architecture inference using eBPF and Go - \[DONE!]
+- KernelMind: Graph-aware repository intelligence - \[DONE!]
+
+## Currently Learning
+- gRPC and Protobuf - \[In Progress]
+- Kubernetes - \[Yet to Start]
 
 ## 🛠️ Languages & Tools
 <p align="center">
